@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -323,6 +323,7 @@ main {
 .boutt {
   color: #white;
   font-weight: bold;
+  
   font-style: italic;
   background: linear-gradient(
     to right,
@@ -338,6 +339,7 @@ main {
 .bb {
   color: white;
   text-opacity: 70%;
+  text-align: center;
   background: linear-gradient(
     to right,
     #000,
@@ -376,4 +378,4 @@ document.getElementById("paymentForm").addEventListener("submit", function(event
 });
 </script>
 
-# Pastewizz.github.io
+# © moonlight connections 2024
